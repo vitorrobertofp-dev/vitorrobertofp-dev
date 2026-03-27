@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Olá, eu sou o Vitor Roberto!
 
 **Aluno do Senac | Técnico em Desenvolvimento de Sistemas**  
@@ -36,8 +35,7 @@ Uma aplicação web completa para gerenciar a reserva de salas nas unidades do S
 
 *(Você pode adicionar imagens/screenshots aqui depois)*
 
-**[Acessar o projeto →](https://github.com/vitorrobertofp-dev/SENAC-Reserva-de-Salas)**  
-*(troque pelo link real do repositório do projeto quando subir)*
+**[Acessar o projeto →](https://github.com/Starkbr264/reserva-de-sala)**
 
 ---
 
@@ -60,9 +58,9 @@ Uma aplicação web completa para gerenciar a reserva de salas nas unidades do S
 
 ## 📬 Vamos conectar?
 
-- **LinkedIn**: [[](https://www.linkedin.com/in/vitor-roberto-ferreira-de-paula-201a413ba/)]
+- **LinkedIn**: [seu linkedin aqui]
 - **E-mail**: vitorrobertofp@gmail.com (ou o que preferir)
-
+- **Instagram** (opcional): [@seuuser](https://www.instagram.com/seuuser)
 
 ---
 
